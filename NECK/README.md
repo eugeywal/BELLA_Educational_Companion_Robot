@@ -72,7 +72,7 @@ Pin 9     ────────────►   Signal (Yellow/Orange)
 
  4. Run the Vision Tracking Script
 
-Update the `COM` port in `main_tracker.py` to match your system settings, then run:
+Update the `COM` port in `Vision_Servo_Control.py` to match your system settings, then run:
 
 bash
 python main_tracker.py
